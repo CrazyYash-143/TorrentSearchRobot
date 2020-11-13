@@ -16,7 +16,7 @@ e)It should look like `app.json`. 🎉
 
 f)Then tap 👇👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/rocky572/TorrentSearchRobot)
 
 # Contribution??
 Yes Contributors Are Welcome😊
